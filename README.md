@@ -8,4 +8,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kpure1000&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning Computer Graphics!
+### Learning
+* Computer Graphics
+* Data Visualization
+* Paper Writing
+* Game Design
+
+
